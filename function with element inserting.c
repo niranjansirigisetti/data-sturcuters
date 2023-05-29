@@ -1,5 +1,5 @@
 void insert(int arr[],int n)
-{
+       {
 		int pos,ele,i;
 		printf("The actual array is:\n");
 		for(i=0;i<n;i++)
