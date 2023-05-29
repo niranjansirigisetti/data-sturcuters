@@ -18,7 +18,7 @@ void insert(int arr[],int n)
 		printf("After inserting element into array.\n");
 		for(i=0;i<n;i++)
 		printf("%d  ",arr[i]);
-	}
+}
 void delect(int arr[],int n)
 {
 		int pos,i;
@@ -33,7 +33,7 @@ void delect(int arr[],int n)
 		printf("After delecting element from array.\n");
 		for(i=0;i<n;i++)
 		printf("%d  ",arr[i]);
-	}
+}
 void main()
 {
 	int num,size,i;
